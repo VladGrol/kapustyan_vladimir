@@ -1,3 +1,1 @@
-test
-update
-update_new_after_changed_originname_to_master
+another_branch_test
